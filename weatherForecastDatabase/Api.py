@@ -69,3 +69,6 @@ print(df_mapped)
 insert_data_to_db(df_mapped, 'Measurement', engine)
 
 ## MUSIMY DODAC WYJATEK PODCZAS WSTAWIANIA DANYCH O TEJ SAMEJ GODZINIE STACJI I DACIE
+
+def siema():
+    return 2+3
