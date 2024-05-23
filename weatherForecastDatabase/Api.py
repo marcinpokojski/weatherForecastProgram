@@ -72,3 +72,6 @@ insert_data_to_db(df_mapped, 'Measurement', engine)
 
 def siema():
     return 2+3
+
+def seiam2():
+    return 0
